@@ -43,7 +43,7 @@
 						<div class="inner">
 							<div class="logo"><span class="icon fa-gem"></span></div>
 							<h2>David Collins</h2>
-							<p>The first attempt at making something like a <a href="https://DavidOCollins.github.io">portfolio</a></p>
+							<p>The first attempt at making something like a portfolio</a></p>
 						</div>
 					</section>
 
