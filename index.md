@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <!--
 	Check out the ReadMe on DavidOCollins github
 -->
@@ -162,7 +162,7 @@
 								<li class="icon brands fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; David Collins. All rights reserved.</li><li>Design: <a href="https://DavidOCollins.github.io">HTML5 UP</a></li>
+								<li>&copy; David Collins. All rights reserved.</li><li>Design: <a href="https://DavidOCollins.github.io">David Collins</a></li>
 							</ul>
 						</div>
 					</section>
