@@ -43,7 +43,7 @@
 						<div class="inner">
 							<div class="logo"><span class="icon fa-gem"></span></div>
 							<h2>David Collins</h2>
-							<p>The first attempt at making something like a portfolio</a></p>
+							<p>The first attempt at making something like a portfolio</p>
 						</div>
 					</section>
 
@@ -159,7 +159,7 @@
 								<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
 								<li class="icon brands fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
 								<li class="icon brands fa-facebook-f"><a href="#">facebook.com/untitled-tld</a></li>
-								<li class="icon brands fab fa-github"><a href="#">github.com/untitled-tld</a></li>
+								<li class="icon brands fa-github"><a href="#">github.com/untitled-tld</a></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; David Collins. All rights reserved.</li><li>Design: <a href="https://DavidOCollins.github.io">David Collins</a></li>
