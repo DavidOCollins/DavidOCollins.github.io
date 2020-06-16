@@ -1,12 +1,10 @@
 <!DOCTYPE HTML>
 <!--
-	Solid State by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Check out the ReadMe on DavidOCollins github
 -->
 <html>
 	<head>
-		<title>Solid State by HTML5 UP</title>
+		<title>David Collins</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +17,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">Solid State</a></h1>
+						<h1><a href="index.html">David Collins</a></h1>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -153,9 +151,9 @@
 							</form>
 							<ul class="contact">
 								<li class="icon solid fa-home">
-									Untitled Inc<br />
-									1234 Somewhere Road Suite #2894<br />
-									Nashville, TN 00000-0000
+									David Collins<br />
+									Way Down South #2894<br />
+									Sevilla, ES 00000-0000
 								</li>
 								<li class="icon solid fa-phone">(000) 000-0000</li>
 								<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
@@ -164,7 +162,7 @@
 								<li class="icon brands fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; David Collins. All rights reserved.</li><li>Design: <a href="https://DavidOCollins.github.io">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</section>
