@@ -1,4 +1,6 @@
- <!--Main Navigation-->
+<html>
+
+<!--Main Navigation-->
     <header>
 
         <!--Navbar-->
@@ -604,3 +606,4 @@
 
     </footer>
     <!-- Footer -->
+</html>
