@@ -1,9 +1,10 @@
-<!DOCTYPE html>
+
 <html>
  <head>
     <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 <!--Main Navigation-->
+ <body>
     <header>
 
         <!--Navbar-->
@@ -477,7 +478,8 @@
         </div>
     </main>
     <!--Main layout-->
-
+    <script src="script.js"></script>
+</body>
     <!-- Footer -->
     <footer class="page-footer font-small unique-color-dark">
 
