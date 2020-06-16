@@ -7,8 +7,8 @@
 		<title>David Collins</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="css/main.css" />
+		<noscript><link rel="stylesheet" href="css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -42,8 +42,8 @@
 					<section id="banner">
 						<div class="inner">
 							<div class="logo"><span class="icon fa-gem"></span></div>
-							<h2>This is Solid State</h2>
-							<p>Another free + fully responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+							<h2>David Collins</h2>
+							<p>The first attempt at making something like a <a href="https://DavidOCollins.github.io">portfolio</a></p>
 						</div>
 					</section>
 
@@ -170,12 +170,12 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="js/jquery.min.js"></script>
+			<script src="js/jquery.scrollex.min.js"></script>
+			<script src="js/browser.min.js"></script>
+			<script src="js/breakpoints.min.js"></script>
+			<script src="js/util.js"></script>
+			<script src="js/main.js"></script>
 
 	</body>
 </html>
