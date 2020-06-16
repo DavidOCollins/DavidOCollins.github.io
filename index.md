@@ -29,8 +29,8 @@
 							<h2>Menu</h2>
 							<ul class="links">
 								<li><a href="index.html">Home</a></li>
-								<li><a href="thispage.html">Generic</a></li>
-								<li><a href="otherpage.html">Elements</a></li>
+								<li><a href="thispage.html">Another Page</a></li>
+								<li><a href="otherpage.html">Other Page</a></li>
 								<li><a href="#">Log In</a></li>
 								<li><a href="#">Sign Up</a></li>
 							</ul>
