@@ -159,7 +159,7 @@
 								<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
 								<li class="icon brands fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
 								<li class="icon brands fa-facebook-f"><a href="#">facebook.com/untitled-tld</a></li>
-								<li class="icon brands fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
+								<li class="icon brands fab fa-github"><a href="#">github.com/untitled-tld</a></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; David Collins. All rights reserved.</li><li>Design: <a href="https://DavidOCollins.github.io">David Collins</a></li>
